@@ -1,1 +1,4 @@
 # CrudJava
+MODEL.DAO
+MODEL.BEAN
+VIEW

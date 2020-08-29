@@ -8,6 +8,5 @@ using:
 
      Eclipse Oxygem.
      
-     WindowBuilder.
      
      Mysql Workbench.
